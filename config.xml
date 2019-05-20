@@ -8,10 +8,10 @@ version ="1.0.0">
 <name>app-8-Maps</name>
 
 <description>
-Muestra la ubicacion del dispocitivo de acuerdo al GPS y en el mapa de Google maps
+Localizacion con Google y GPS
 </description>
 
-<author href="https://build.phonegap.com" email="ff088366gmail.com">
+<author href="https://build.phonegap.com" email="ff088366@gmail.com">
 Fernando Flores Guzman 
 </author>
 
@@ -43,6 +43,6 @@ Fernando Flores Guzman
 
 <!--Colocar icono de la app-->
 
-<icon src="imagenes/mdpi.png"/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
